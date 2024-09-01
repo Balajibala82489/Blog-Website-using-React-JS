@@ -11,16 +11,16 @@ Currently, two official plugins are available:
     PROJECT SETUP
 
      STEP 1:
-     npm create vite@latest gospel-delights-app
+     npm create vite@latest gospel-delights-app 
 
      STEP 2:
      select a framework: React
 
      STEP 3:
-     select a variant: Javascript
+     select a variant: Javascript 
 
      STEP 4:
-     Go To D:\ExternalProject\GoSpelDelights\gospel-delights-app
+     Go To D:\ExternalProject\GoSpelDelights\gospel-delights-app 
 
      STEP 5:
      Now Run:
@@ -109,7 +109,7 @@ Currently, two official plugins are available:
         },
     ]
 
-    Reference URL: https://youtu.be/Vc6SFpPf-V4
+    Reference URL: https://youtu.be/Vc6SFpPf-V4 
 
     STEP 16:
 
