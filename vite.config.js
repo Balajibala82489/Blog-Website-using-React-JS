@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base="/Blog-Website-React-JS/"
   server: {
-    port: 3000,
+    port: 5001,
   },
 });
